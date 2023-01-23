@@ -8,11 +8,11 @@ Military veteran (Navy), avid traveler with a need for continous knowledge and a
 
 ### Willingness to **learn** and never be satisfied with being stagnant.
 
-- *From **challenges & obstacles***
+- From **challenges & obstacles**
 This includes not knowing the answer and failing. The obstacle is finding the answer and succeding.
-- ***Through hard work & effort**
+- Through hard work & effort
 This includes learning and putting in the time it will take to aquire the knowledge needed for success.
-- ***With criticism and success of others**
+- *With criticism and success of others*
 This includes acceptance that you dont know it all and that there is always room for improvement no matter what stage in life you are at. As for the success of others be happy for there progression and use it as fuel to achieve the same goals or to do even better.
 
 ## Table of contents 
