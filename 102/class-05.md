@@ -22,3 +22,8 @@
 - New feautures are created or added depending on user interest or if a particular browser wants certain capability.
 - CSS is constantly developing 
 - Older websites with CSS should always work with new CSS developments.
+
+
+## Things I want to know more about 
+- Are there certain properties that work better with each other then others
+- What are the limits for collaboration between the different modules
