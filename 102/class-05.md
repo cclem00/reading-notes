@@ -21,3 +21,4 @@
 - Defines precisely how these technologies are suppose to behave and what they can do.
 - New feautures are created or added depending on user interest or if a particular browser wants certain capability.
 - CSS is constantly developing 
+- Older websites with CSS should always work with new CSS developments.
